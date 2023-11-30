@@ -1,11 +1,13 @@
 venv/
-.ipynb_checkpoints/
 keys/
+.ipynb_checkpoints/
+
 
 SpotifyAPI.ipynb
 spotify.oauth2.txt
 Untitled.ipynb
 Untitled1.ipynb
 weather_key.txt
+openai_key.txt
 ISSCity.ipynb
 .cache-WangxinLiu
