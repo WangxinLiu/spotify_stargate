@@ -3,6 +3,7 @@
 api_key.txt
 city_key.txt
 news_key.txt
+openai_key.txt
 spotify_keys.json
 SpotifyAPI.ipynb
 spotify.oauth2.txt
